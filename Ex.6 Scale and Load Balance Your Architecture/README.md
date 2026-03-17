@@ -1,12 +1,14 @@
 # Lab 6 – Scale and Load Balance Your Architecture
 
+NAME: SENTHIL KANAGAVEL BALASUNDARAM
+
+REG NO: 212223060254
+
+DATE:17/03/2026
+
 ## Title
 
 Scale and Load Balance Your Architecture
-
-NAME: SENTHIL KANAGAVEL BALASUNDARAM
-REG NO: 212223060254
-DATE:17/03/2026
 
 
 ---
