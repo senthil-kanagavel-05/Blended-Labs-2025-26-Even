@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: SENTHIL KANAGAVEL BALASUNDARAM
+* **Register Number**: 212223060254
+* **Date of Submission**: 17/03/2026
 
 ---
 
@@ -96,35 +96,35 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. Create an account on Amazon Web Services and log in to the AWS Management Console.
 
----
+2. Open the Amazon EC2 dashboard from the Services menu.
+
+3. Click Launch Instance and choose an Amazon Machine Image (AMI).
+
+4. Select an instance type (e.g., t2.micro), configure a key pair, and set up security group rules.
+
+5. Launch the instance and connect to it using SSH (Linux) or RDP (Windows).
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1643" height="845" alt="Screenshot 2026-02-27 223639" src="https://github.com/user-attachments/assets/f8311234-c712-45ca-a78d-f6bb3b95e8c5" />
 
----
+<img width="1630" height="811" alt="Screenshot 2026-02-27 223731" src="https://github.com/user-attachments/assets/7fe87298-c97d-4a17-9fcf-ec30a2e959c2" />
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
-
----
+<img width="1638" height="831" alt="Screenshot 2026-02-27 223806" src="https://github.com/user-attachments/assets/e3bb52b2-d70e-4421-a179-3823546a6619" />
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="1325" height="651" alt="Screenshot 2026-02-27 224110" src="https://github.com/user-attachments/assets/ee22e6e9-2458-4b29-b75f-fa6918f452dc" />
 
----
+<img width="1250" height="642" alt="Screenshot 2026-02-27 223954" src="https://github.com/user-attachments/assets/c88b80c8-873f-490f-baee-c5f27b79fc05" />
+
 
 ## Result 
 
